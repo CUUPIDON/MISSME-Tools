@@ -3,8 +3,6 @@ These are small and simple scipts for both Blender 2.70 and 2.79. I've made them
 
 I originally wrote these because I thought that maybe Blender would work like Photo Shop and I could, in a way, record actions. I did find a way to do that and I just sorta sat on them for a while. Then I got off my behind and made a simple interface so they're more friendly to use.
 
-I will try to improve them as best I can but I want to be sort-of open source? Sorry If I don't seem well-versed, I've written these with no previous coding experince and I want others to be able to contribute any knowledge that they might have. Soo, the .py scripts are also included in the download.
-
 ### Some things to expect: 
 1. It does not fully automate the experince so please do not expect it to do so.
 
