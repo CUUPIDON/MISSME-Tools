@@ -1,5 +1,5 @@
 # MISSME-Tools
-These are small and simple scipts for both Blender 2.79 and lower (to 2.76). I've made them so they take the leg-work out of content creation. Instead of having a million diffrent blender versions installed, you can pick and use just the one now.
+These are small and simple scripts for both Blender 2.79 and lower (to 2.76). I've made them so they take the leg-work out of content creation. Instead of having a million different blender versions installed, you can pick and use just the one now.
 
 I originally wrote these because I thought that maybe Blender would work like Photo Shop and I could, in a way, record actions. I did find a way to do that and I just sorta sat on them for a while. Then I got off my behind and made a simple interface so they're more friendly to use.
 
